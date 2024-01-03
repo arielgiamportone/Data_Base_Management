@@ -6,11 +6,11 @@
 **UPGRADE HUB-Madrid,España. 2023**
 
 -Resumen
-Los **administradores de bases de datos** desempeñan un papel crucial en la gestión, seguridad y eficacia de las bases de datos empresariales. Su trabajo va desde la gestión técnica y mantenimiento hasta el soporte a usuarios y la conformidad con las leyes de privacidad de datos, siendo esenciales para el funcionamiento adecuado de los sistemas de información en diversas organizaciones.
+Los **administradores de bases de datos** desempeñan un papel crucial en la **gestión, seguridad y eficacia** de las bases de datos empresariales. Su trabajo va desde la gestión técnica y mantenimiento hasta el soporte a usuarios y la conformidad con las leyes de privacidad de datos, siendo esenciales para el funcionamiento adecuado de los sistemas de información en diversas organizaciones.
 Conocer las tecnologías para **intercomunicar las bases de datos** con los entornos para su **procesamiento y análisis** suele ser una tarea compartida por varios profesionales, en este caso los analistas de datos perfeccionan las técnias para el preprocesamiento y posterior análisis. En la actualidad la conexión de bases de datos con entornos como Visual Studio Code y el procesamiento con lenguajes como **Python** se han vuelto rutinarios y para los analistas de datos resulta estimulante comprender este proceso.
 
 -Summary
-**Database administrators** play a pivotal role in managing, securing, and ensuring the effectiveness of enterprise databases. Their responsibilities span technical management, maintenance, user support, and compliance with data privacy laws, making them essential for the proper functioning of information systems across diverse organizations.
+**Database administrators** play a pivotal role in **managing, securing, and ensuring the effectiveness** of enterprise databases. Their responsibilities span technical management, maintenance, user support, and compliance with data privacy laws, making them essential for the proper functioning of information systems across diverse organizations.
 Understanding technologies to **interconnect databases** with environments for **processing and analysis** is often a shared task among various professionals. In this context, data analysts refine techniques for preprocessing and subsequent analysis. Currently, linking databases with environments such as Visual Studio Code and processing using languages like **Python** has become routine. For data analysts, comprehending this process is not only stimulating but also crucial for leveraging these tools effectively.
 
 -Conclusiones
